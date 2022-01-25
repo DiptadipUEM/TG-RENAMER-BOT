@@ -16,7 +16,7 @@ An Open Source Rename Telegram RoBot
 
 ### You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Ns-AnoNymouS/TG-RENAMER-BOT/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/DiptadipUEM/TG-RENAMER-BOT)
 
 ## Available BotFather commands
 ```
@@ -25,7 +25,6 @@ rename - (long press) and send the name of the new file.extension for uploading 
 rename_video - (long press) and send the name of the new file.extension for upload as video
 donate - please donate me
 help - to know how to use me
-about - to know about me
 ```
 
 #### The Hard Way
