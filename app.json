@@ -61,7 +61,7 @@
     }
   ],
   "buildpacks": [{
-    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    "url": "https://github.com/DiptadipUEM/TG-RENAMER-BOT"
   }, {
     "url": "heroku/python"
   }],
